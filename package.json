@@ -2,11 +2,7 @@
   "name": "angular-spotify",
   "version": "1.0.0",
   "license": "MIT",
-  "author": {
-    "name": "Trung Vo",
-    "email": "trungk18@gmail.com",
-    "url": "https://github.com/trungvose"
-  },
+}
   "scripts": {
     "ng": "nx",
     "postinstall": "husky install",
